@@ -11,6 +11,106 @@ Below you find a chart demonstrating the paths that you can take and the librari
 
 ![Roadmap](./roadmap.png)
 
+## Resources
+
+1. Basics
+    1. HTML
+        * Learn the basics of HTML
+        * Make a few pages as an exercise
+    2. CSS
+        * Learn the basics of CSS
+        * Style pages from previous step
+        * Build a page with grid and flexbox
+    3. JS Basics
+        * Get familiar with the syntax
+        * Learn basic operations on DOM
+        * Learn mechanisms typical for JS (Hoisting, Event Bubbling, Prototyping)
+        * Make some AJAX (XHR) calls
+        * Learn new features (ECMA Script 6+)
+        * Additionally, get familiar with jQuery library
+2. General Development Skills
+    1. Learn GIT, create a few repositories on GitHub, share your code with other people
+    2. Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+    3. Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
+    4. Get familiar with terminal, configure your shell (bash, zsh, fish)
+    5. Read a few books about algorithms and data structures
+    6. Read a few books about design patterns
+3. Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
+4. Get familiar with tools that you will be using
+    1. Package Managers
+        * [npm](https://www.npmjs.com/)
+        * [yarn](https://yarnpkg.com/lang/en/)
+        * [pnpm](https://pnpm.js.org/)
+    2. Task Runners
+        * [npm scripts](https://docs.npmjs.com/misc/scripts)
+        * [gulp](https://gulpjs.com/)
+    * [Webpack](https://webpack.js.org/)
+    * [Rollup](https://rollupjs.org/guide/en)
+    * [Parcel](https://parceljs.org/)
+5. Styling
+    1. CSS Preprocessor
+        * [Sass/CSS](https://sass-lang.com/)
+        * [PostCSS](https://postcss.org/)
+        * [Less](http://lesscss.org/)
+        * [Stylus](http://stylus-lang.com/)
+    2. CSS Frameworks
+        * [Bootstrap](https://getbootstrap.com/)
+        * [Materialize](https://materializecss.com/), [Material UI](https://material-ui.com/), [Material Design Lite](https://getmdl.io/)
+        * [Bulma](https://bulma.io/)
+        * [Semantic UI](https://semantic-ui.com/)
+    3. CSS Architecture
+        * [BEM](http://getbem.com/)
+        * [CSS Modules](https://github.com/css-modules/css-modules)
+        * [Atomic](https://acss.io/)
+        * [OOCSS](https://github.com/stubbornella/oocss/wiki)
+        * [SMACSS](https://smacss.com/)
+        * [SUITCSS](https://suitcss.github.io/)
+    4. CSS in JS
+        * [Styled Components](https://www.styled-components.com/)
+        * [Radium](https://formidable.com/open-source/radium/)
+        * [Glamorous](https://glamorous.rocks/)
+        * [JSS](http://cssinjs.org/)
+        * [Aphrodite](https://github.com/Khan/aphrodite)
+6. State Management
+    1. [Redux](https://redux.js.org/)
+        1. Async actions (Side Effects)
+            * [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+            * [Redux Better Promise](https://github.com/Lukasz-pluszczewski/redux-better-promise)
+            * [Redux Saga](https://redux-saga.js.org/)
+        2. Data persistence
+            * [Redux Persist](https://github.com/rt2zz/redux-persist)
+            * [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
+    2. [MobX](https://mobx.js.org/)
+        * [RxJS](http://reactivex.io/)
+7. Type Checkers
+    * [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+    * [TypeScript](https://www.typescriptlang.org/)
+    * [Flow](https://flow.org/en/)
+8. API Clients
+    * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+    * [SuperAgent](https://visionmedia.github.io/superagent/)
+    * [axios](https://github.com/axios/axios)
+9. Testing
+    1. Unit Testing
+        * [Jest](https://facebook.github.io/jest/)
+        * [Enzyme](http://airbnb.io/enzyme/)
+        * [Sinon](http://sinonjs.org/)
+        * [Mocha](https://mochajs.org/)
+        * [Chai](http://www.chaijs.com/)
+        * [AVA](https://github.com/avajs/ava)
+        * [Tape](https://github.com/substack/tape)
+    2. End to End Testing
+        * [Selenium](https://www.seleniumhq.org/), [Webdriver](http://webdriver.io/)
+        * [Puppeteer](https://pptr.dev/)
+        * [Cucumber.js](https://github.com/cucumber/cucumber-js)
+    3. Integration Testing
+        * [Karma](https://karma-runner.github.io/)
+10. Server Side Rendering
+    * [Next.js](https://nextjs.org/)
+    * [After.js](https://github.com/jaredpalmer/after.js)
+11. Backend Framework Integration
+    * [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
+
 ## Wrap Up
 
 If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
