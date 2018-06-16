@@ -2,7 +2,7 @@
 
 > Roadmap to becoming a React developer in 2018
 
-Below you find a chart demonstrating the paths that you can take and the libraries that you would want to learn in order to become a React develope. I made this chart for all people who encounter me with question "What should I learn next as a React developer?" to give them some tips.
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn in order to become a React developer. I made this chart for all people who encounter me with question "What should I learn next as a React developer?" to give them some tips.
 
 ## Disclaimer
 > The purpose of this roadmap is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
