@@ -80,26 +80,31 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         2. Data persistence
             * [Redux Persist](https://github.com/rt2zz/redux-persist)
             * [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
+        3. [Redux Form](https://redux-form.com)
     2. [MobX](https://mobx.js.org/)
         * [RxJS](http://reactivex.io/)
 7. Type Checkers
     * [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
     * [TypeScript](https://www.typescriptlang.org/)
     * [Flow](https://flow.org/en/)
-8. Routing
+8. Form Helpers
+    * [Redux Form](https://redux-form.com)
+    * [Formsy](https://github.com/formsy/formsy-react)
+    * [Final Form](https://github.com/final-form/final-form)
+9. Routing
     * [React-Router](https://reacttraining.com/react-router/)
     * [Router5](https://router5.js.org/)
     * [Redux-First Router](https://github.com/faceyspacey/redux-first-router)
-9. API Clients
+10. API Clients
     * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
     * [SuperAgent](https://visionmedia.github.io/superagent/)
     * [axios](https://github.com/axios/axios)
-10. Utility Libraries
+11. Utility Libraries
     * [Lodash](https://lodash.com/)
     * [Moment](https://momentjs.com/)
     * [classnames](https://github.com/JedWatson/classnames)
     * [Numeral](http://numeraljs.com/)
-11. Testing
+12. Testing
     1. Unit Testing
         * [Jest](https://facebook.github.io/jest/)
         * [Enzyme](http://airbnb.io/enzyme/)
@@ -114,18 +119,18 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [Cucumber.js](https://github.com/cucumber/cucumber-js)
     3. Integration Testing
         * [Karma](https://karma-runner.github.io/)
-12. Server Side Rendering
+13. Server Side Rendering
     * [Next.js](https://nextjs.org/)
     * [After.js](https://github.com/jaredpalmer/after.js)
-13. Backend Framework Integration
+14. Backend Framework Integration
     * [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
-14. Mobile
+15. Mobile
     * [React Native](https://facebook.github.io/react-native/)
     * [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
-15. Desktop
+16. Desktop
     * [Proton Native](https://proton-native.js.org/)
     * [Electron](https://electronjs.org/)
-16. Virtual Reality
+17. Virtual Reality
     * [React 360](https://facebook.github.io/react-360/)
 
 ## Wrap Up
