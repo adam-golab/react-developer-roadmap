@@ -104,6 +104,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Moment](https://momentjs.com/)
     * [classnames](https://github.com/JedWatson/classnames)
     * [Numeral](http://numeraljs.com/)
+    * [Ramda](https://ramdajs.com/)
 12. Testing
     1. Unit Testing
         * [Jest](https://facebook.github.io/jest/)
