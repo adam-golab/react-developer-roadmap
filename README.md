@@ -89,6 +89,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Flow](https://flow.org/en/)
 8. Form Helpers
     * [Redux Form](https://redux-form.com)
+    * [Formik](https://github.com/jaredpalmer/formik)
     * [Formsy](https://github.com/formsy/formsy-react)
     * [Final Form](https://github.com/final-form/final-form)
 9. Routing
@@ -116,6 +117,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [Tape](https://github.com/substack/tape)
     2. End to End Testing
         * [Selenium](https://www.seleniumhq.org/), [Webdriver](http://webdriver.io/)
+        * [Cypress](https://cypress.io/)
         * [Puppeteer](https://pptr.dev/)
         * [Cucumber.js](https://github.com/cucumber/cucumber-js)
     3. Integration Testing
