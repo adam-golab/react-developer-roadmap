@@ -96,10 +96,16 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [React-Router](https://reacttraining.com/react-router/)
     * [Router5](https://router5.js.org/)
     * [Redux-First Router](https://github.com/faceyspacey/redux-first-router)
+    * [Reach Router](https://reach.tech/router/)
 10. API Clients
-    * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-    * [SuperAgent](https://visionmedia.github.io/superagent/)
-    * [axios](https://github.com/axios/axios)
+    1. REST
+        * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+        * [SuperAgent](https://visionmedia.github.io/superagent/)
+        * [axios](https://github.com/axios/axios)
+    2. GraphQL
+        * [Apollo](https://www.apollographql.com/docs/react/)
+        * [Relay](https://facebook.github.io/relay/)
+        * [urql](https://github.com/FormidableLabs/urql)
 11. Utility Libraries
     * [Lodash](https://lodash.com/)
     * [Moment](https://momentjs.com/)
@@ -123,18 +129,22 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [Cucumber.js](https://github.com/cucumber/cucumber-js)
     3. Integration Testing
         * [Karma](https://karma-runner.github.io/)
-13. Server Side Rendering
+13. Internationalization
+    * [React Intl](https://github.com/yahoo/react-intl)
+    * [React i18next](https://react.i18next.com/)
+14. Server Side Rendering
     * [Next.js](https://nextjs.org/)
     * [After.js](https://github.com/jaredpalmer/after.js)
-14. Backend Framework Integration
+15. Backend Framework Integration
     * [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
-15. Mobile
+16. Mobile
     * [React Native](https://facebook.github.io/react-native/)
     * [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
-16. Desktop
+17. Desktop
     * [Proton Native](https://proton-native.js.org/)
     * [Electron](https://electronjs.org/)
-17. Virtual Reality
+    * [React Native Windows](https://github.com/Microsoft/react-native-windows)
+18. Virtual Reality
     * [React 360](https://facebook.github.io/react-360/)
 
 ## Wrap Up
