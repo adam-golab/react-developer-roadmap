@@ -68,11 +68,12 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     4. CSS in JS
         * [Styled Components](https://www.styled-components.com/)
         * [Radium](https://formidable.com/open-source/radium/)
-        * [Glamorous](https://glamorous.rocks/)
+        * [Emotion](https://emotion.sh/)
         * [JSS](http://cssinjs.org/)
         * [Aphrodite](https://github.com/Khan/aphrodite)
 6. State Management
-    1. [Redux](https://redux.js.org/)
+    1. [Component State](https://reactjs.org/docs/faq-state.html)/[Context API](https://reactjs.org/docs/context.html)
+    2. [Redux](https://redux.js.org/)
         1. Async actions (Side Effects)
             * [Redux Thunk](https://github.com/reduxjs/redux-thunk)
             * [Redux Better Promise](https://github.com/Lukasz-pluszczewski/redux-better-promise)
@@ -81,8 +82,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
             * [Redux Persist](https://github.com/rt2zz/redux-persist)
             * [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
         3. [Redux Form](https://redux-form.com)
-    2. [MobX](https://mobx.js.org/)
-        * [RxJS](http://reactivex.io/)
+    3. [MobX](https://mobx.js.org/)
 7. Type Checkers
     * [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
     * [TypeScript](https://www.typescriptlang.org/)
@@ -105,6 +105,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Moment](https://momentjs.com/)
     * [classnames](https://github.com/JedWatson/classnames)
     * [Numeral](http://numeraljs.com/)
+    * [RxJS](http://reactivex.io/)
     * [Ramda](https://ramdajs.com/)
 12. Testing
     1. Unit Testing
