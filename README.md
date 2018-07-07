@@ -78,6 +78,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
             * [Redux Thunk](https://github.com/reduxjs/redux-thunk)
             * [Redux Better Promise](https://github.com/Lukasz-pluszczewski/redux-better-promise)
             * [Redux Saga](https://redux-saga.js.org/)
+            * [Redux Observable](https://redux-observable.js.org)
         2. Data persistence
             * [Redux Persist](https://github.com/rt2zz/redux-persist)
             * [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
