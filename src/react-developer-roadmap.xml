@@ -280,6 +280,15 @@
                 </Array>
             </mxGeometry>
         </mxCell>
+        <mxCell id="111" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=0;exitY=0.5;entryX=0.084;entryY=1.027;entryPerimeter=0;" edge="1" parent="1" source="109" target="15a4b3893f7299b4-74">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+                <mxPoint x="337.30952380952385" y="985.3571428571429" as="sourcePoint"/>
+                <mxPoint x="222.07142857142844" y="910.1190476190475" as="targetPoint"/>
+                <Array as="points">
+                    <mxPoint x="217.5" y="985.5"/>
+                </Array>
+            </mxGeometry>
+        </mxCell>
         <mxCell id="15a4b3893f7299b4-66" value="State Management" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
             <mxGeometry x="275" y="760.1666666666665" width="110" height="20" as="geometry"/>
         </mxCell>
@@ -300,6 +309,9 @@
         </mxCell>
         <mxCell id="15a4b3893f7299b4-77" value="Redux Saga" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
             <mxGeometry x="350" y="960.1666666666665" width="100" height="15" as="geometry"/>
+        </mxCell>
+        <mxCell id="109" value="Redux Observable" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" vertex="1" parent="1">
+            <mxGeometry x="350" y="980.6666666666665" width="100" height="15" as="geometry"/>
         </mxCell>
         <mxCell id="15a4b3893f7299b4-78" value="Redux Better Promise" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
             <mxGeometry x="350" y="940.1666666666665" width="100" height="15" as="geometry"/>
