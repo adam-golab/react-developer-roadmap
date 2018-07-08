@@ -135,16 +135,18 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 14. Server Side Rendering
     * [Next.js](https://nextjs.org/)
     * [After.js](https://github.com/jaredpalmer/after.js)
-15. Backend Framework Integration
+15. Static Site Generator
+    * [Gatsby](https://www.gatsbyjs.org/)
+16. Backend Framework Integration
     * [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
-16. Mobile
+17. Mobile
     * [React Native](https://facebook.github.io/react-native/)
     * [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
-17. Desktop
+18. Desktop
     * [Proton Native](https://proton-native.js.org/)
     * [Electron](https://electronjs.org/)
     * [React Native Windows](https://github.com/Microsoft/react-native-windows)
-18. Virtual Reality
+19. Virtual Reality
     * [React 360](https://facebook.github.io/react-360/)
 
 ## Wrap Up
