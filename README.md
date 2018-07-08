@@ -136,6 +136,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 14. Server Side Rendering
     * [Next.js](https://nextjs.org/)
     * [After.js](https://github.com/jaredpalmer/after.js)
+    * [Hypernova](https://github.com/airbnb/hypernova)
 15. Static Site Generator
     * [Gatsby](https://www.gatsbyjs.org/)
 16. Backend Framework Integration
