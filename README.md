@@ -93,6 +93,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Formik](https://github.com/jaredpalmer/formik)
     * [Formsy](https://github.com/formsy/formsy-react)
     * [Final Form](https://github.com/final-form/final-form)
+    * [Form.io](https://github.com/formio/react-formio)
 9. Routing
     * [React-Router](https://reacttraining.com/react-router/)
     * [Router5](https://router5.js.org/)
