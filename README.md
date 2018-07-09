@@ -84,6 +84,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
             * [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
         3. [Redux Form](https://redux-form.com)
     3. [MobX](https://mobx.js.org/)
+    4. [rematch](https://github.com/rematch/rematch)
 7. Type Checkers
     * [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
     * [TypeScript](https://www.typescriptlang.org/)
