@@ -162,6 +162,25 @@ The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be 
 - Discuss ideas in issues
 - Spread the word
 
+## How to edit roadmap?
+1. Open [draw.io](https://draw.io).
+2. Close opened small window.
+2. File -> Import from -> Github....
+3. Authorization GitHub.
+4. Choose forked repository (react-developer-roadmap) and click src -> react-developer-roadmap.xml.
+
+### Add links to roadmap
+1. Double click to text.
+2. Click to HTML button ```</>``` at the top of page.
+3. Write HTML: ```<a href="URL here" target="_blank" style="text-decoration: none; color: black;">Your text</a>```
+
+### Export roadmap to PDF file
+1. File -> Export as -> Advanced....
+2. Change these values:
+    * Format: PDF;
+    * Width: 1100;
+3. Click to "Export" button.
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
