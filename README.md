@@ -83,6 +83,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
             * [Redux Persist](https://github.com/rt2zz/redux-persist)
             * [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
         3. [Redux Form](https://redux-form.com)
+        4. [Stapp](https://tinkoffcreditsystems.github.io/stapp/)
     3. [MobX](https://mobx.js.org/)
 7. Type Checkers
     * [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
