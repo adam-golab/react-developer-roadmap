@@ -150,6 +150,15 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 19. Virtual Reality
     * [React 360](https://facebook.github.io/react-360/)
 
+20. React UI
+    * [React Material-UI](https://github.com/mui-org/material-ui)
+    * [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+    * [Ant Design React](https://github.com/ant-design/ant-design)
+    * [Semantic UI React](https://react.semantic-ui.com/introduction)
+    * [React Virtualized](https://github.com/bvaughn/react-virtualized)
+    * [KHan react-components](https://bitsrc.io/khan/react-components#components)
+    * [Material Components Web](https://github.com/material-components/material-components-web/)
+
 ## Wrap Up
 
 If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
