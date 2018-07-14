@@ -107,6 +107,9 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [Apollo](https://www.apollographql.com/docs/react/)
         * [Relay](https://facebook.github.io/relay/)
         * [urql](https://github.com/FormidableLabs/urql)
+    3. Falcor
+        * [FalcorJS](https://github.com/Netflix/falcor)
+        * [Falcor Router](https://github.com/Netflix/falcor-router)
 11. Utility Libraries
     * [Lodash](https://lodash.com/)
     * [Moment](https://momentjs.com/)
