@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxGraphModel dx="953" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+<mxGraphModel dx="821" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
   <root>
     <mxCell id="0"/>
     <mxCell id="1" parent="0"/>
@@ -1756,7 +1756,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="108" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=0.5;entryX=0;entryY=0.75;" parent="1" source="88" edge="1" target="9221bb110d1119f-87">
+    <mxCell id="108" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=0.5;entryX=0;entryY=0.75;" parent="1" source="88" target="9221bb110d1119f-87" edge="1">
       <mxGeometry width="50" height="50" relative="1" as="geometry">
         <mxPoint x="156" y="1906" as="sourcePoint"/>
         <mxPoint x="240" y="1870" as="targetPoint"/>
@@ -1822,6 +1822,19 @@
         <Array as="points">
           <mxPoint x="750" y="1560"/>
           <mxPoint x="780" y="1592"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="395791d3fa197221-129" value="Rogue.js&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" vertex="1" parent="1">
+      <mxGeometry x="35" y="1689.8333333333333" width="65" height="15" as="geometry"/>
+    </mxCell>
+    <mxCell id="395791d3fa197221-130" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=0.5;entryX=0.051;entryY=1.056;entryPerimeter=0;" edge="1" source="395791d3fa197221-129" parent="1" target="15a4b3893f7299b4-114">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="149.5" y="1742.8333333333333" as="sourcePoint"/>
+        <mxPoint x="211.77586206896558" y="1686.9137931034484" as="targetPoint"/>
+        <Array as="points">
+          <mxPoint x="145" y="1700"/>
+          <mxPoint x="170" y="1680"/>
         </Array>
       </mxGeometry>
     </mxCell>
