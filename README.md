@@ -87,7 +87,6 @@ Below you can find a chart demonstrating the paths that you can take and the lib
             * [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
         4. [Redux Form](https://redux-form.com)
     3. [MobX](https://mobx.js.org/)
-    4. [rematch](https://github.com/rematch/rematch)
 7. Type Checkers
     * [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
     * [TypeScript](https://www.typescriptlang.org/)
@@ -115,7 +114,6 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Lodash](https://lodash.com/)
     * [Moment](https://momentjs.com/)
     * [classnames](https://github.com/JedWatson/classnames)
-    * [reselect](https://github.com/reduxjs/reselect)
     * [Numeral](http://numeraljs.com/)
     * [RxJS](http://reactivex.io/)
     * [Ramda](https://ramdajs.com/)
