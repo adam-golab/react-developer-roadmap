@@ -83,10 +83,13 @@
             - [Redux Better Promise](https://github.com/Lukasz-pluszczewski/redux-better-promise)
             - [Redux Saga](https://redux-saga.js.org/)
             - [Redux Observable](https://redux-observable.js.org)
-        2.  数据持久化
+        2. 助手
+            * [Rematch](https://rematch.gitbooks.io/rematch/)
+            * [Reselect](https://github.com/reduxjs/reselect)
+        3.  数据持久化
             - [Redux Persist](https://github.com/rt2zz/redux-persist)
             - [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
-        3.  [Redux Form](https://redux-form.com)
+        4.  [Redux Form](https://redux-form.com)
     3.  [MobX](https://mobx.js.org/)
 7.  类型检查器
     - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
