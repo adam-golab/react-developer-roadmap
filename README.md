@@ -54,6 +54,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [Less](http://lesscss.org/)
         * [Stylus](http://stylus-lang.com/)
     2. CSS Frameworks
+        * [AntDesign](https://ant.design/)
         * [Bootstrap](https://getbootstrap.com/)
         * [Materialize](https://materializecss.com/), [Material UI](https://material-ui.com/), [Material Design Lite](https://getmdl.io/)
         * [Bulma](https://bulma.io/)
