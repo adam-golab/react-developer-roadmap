@@ -79,11 +79,15 @@ Below you can find a chart demonstrating the paths that you can take and the lib
             * [Redux Better Promise](https://github.com/Lukasz-pluszczewski/redux-better-promise)
             * [Redux Saga](https://redux-saga.js.org/)
             * [Redux Observable](https://redux-observable.js.org)
-        2. Data persistence
+        2. Helpers
+            * [Rematch](https://rematch.gitbooks.io/rematch/)
+            * [Reselect](https://github.com/reduxjs/reselect)
+        3. Data persistence
             * [Redux Persist](https://github.com/rt2zz/redux-persist)
             * [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
-        3. [Redux Form](https://redux-form.com)
+        4. [Redux Form](https://redux-form.com)
     3. [MobX](https://mobx.js.org/)
+    4. [rematch](https://github.com/rematch/rematch)
 7. Type Checkers
     * [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
     * [TypeScript](https://www.typescriptlang.org/)
@@ -111,6 +115,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Lodash](https://lodash.com/)
     * [Moment](https://momentjs.com/)
     * [classnames](https://github.com/JedWatson/classnames)
+    * [reselect](https://github.com/reduxjs/reselect)
     * [Numeral](http://numeraljs.com/)
     * [RxJS](http://reactivex.io/)
     * [Ramda](https://ramdajs.com/)
