@@ -135,6 +135,7 @@
         - [Cypress](https://cypress.io/)
         - [Puppeteer](https://pptr.dev/)
         - [Cucumber.js](https://github.com/cucumber/cucumber-js)
+        - [Nightwatch.js](http://nightwatchjs.org/)
     3.  集成测试
         - [Karma](https://karma-runner.github.io/)
 13. 国际化（i18n)
