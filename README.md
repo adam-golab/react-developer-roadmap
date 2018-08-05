@@ -35,7 +35,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     4. Get familiar with terminal, configure your shell (bash, zsh, fish)
     5. Read a few books about algorithms and data structures
     6. Read a few books about design patterns
-3. Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
+3. Learn React on [official website](https://reactjs.org/tutorial/tutorial.html), complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react) or read [free books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#react)
 4. Get familiar with tools that you will be using
     1. Package Managers
         * [npm](https://www.npmjs.com/)
