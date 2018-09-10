@@ -132,6 +132,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [Puppeteer](https://pptr.dev/)
         * [Cucumber.js](https://github.com/cucumber/cucumber-js)
         * [Nightwatch.js](http://nightwatchjs.org/)
+        * [TestCafe](https://github.com/DevExpress/testcafe)
     3. Integration Testing
         * [Karma](https://karma-runner.github.io/)
 13. Internationalization
