@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxGraphModel dx="953" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+<mxGraphModel dx="1430" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
   <root>
     <mxCell id="0"/>
     <mxCell id="1" parent="0"/>
@@ -1535,7 +1535,7 @@
     <mxCell id="29283392ea474178-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=1;entryX=1;entryY=1;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=8;" parent="1" source="29283392ea474178-64" target="29283392ea474178-64" edge="1">
       <mxGeometry relative="1" as="geometry"/>
     </mxCell>
-    <mxCell id="30009fc3392c28ba-52" value="Ramda" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
+    <mxCell id="30009fc3392c28ba-52" value="ImmutableJS" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="23.5" y="1486" width="65" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="30009fc3392c28ba-53" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=0.5;entryX=0.854;entryY=1.025;entryPerimeter=0;" parent="1" source="30009fc3392c28ba-52" target="9221bb110d1119f-52" edge="1">
@@ -1864,10 +1864,10 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="185" value="Rogue" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" vertex="1" parent="1">
+    <mxCell id="185" value="Rogue" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="35" y="1688.8333333333333" width="65" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="186" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=0.5;entryX=0;entryY=0.75;" edge="1" parent="1" source="185" target="15a4b3893f7299b4-114">
+    <mxCell id="186" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=0.5;entryX=0;entryY=0.75;" parent="1" source="185" target="15a4b3893f7299b4-114" edge="1">
       <mxGeometry width="50" height="50" relative="1" as="geometry">
         <mxPoint x="110.33333333333326" y="1686.3333333333335" as="sourcePoint"/>
         <mxPoint x="200" y="1670" as="targetPoint"/>
@@ -1877,16 +1877,29 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="188" value="Nightwatch.js" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" vertex="1" parent="1">
+    <mxCell id="188" value="Nightwatch.js" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="715" y="1527" width="80" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="189" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1.002;exitY=1.017;exitPerimeter=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="15a4b3893f7299b4-155" target="188">
+    <mxCell id="189" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1.002;exitY=1.017;exitPerimeter=0;entryX=0;entryY=0.5;" parent="1" source="15a4b3893f7299b4-155" target="188" edge="1">
       <mxGeometry width="50" height="50" relative="1" as="geometry">
         <mxPoint x="590" y="1490" as="sourcePoint"/>
         <mxPoint x="690" y="1540" as="targetPoint"/>
         <Array as="points">
           <mxPoint x="634" y="1480"/>
           <mxPoint x="674" y="1534"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="190" value="Ramda" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" vertex="1" parent="1">
+      <mxGeometry x="23.5" y="1507" width="65" height="15" as="geometry"/>
+    </mxCell>
+    <mxCell id="191" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=0.5;entryX=0.938;entryY=1.075;entryPerimeter=0;" edge="1" parent="1" source="190" target="9221bb110d1119f-52">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="99" y="1504" as="sourcePoint"/>
+        <mxPoint x="273" y="1371" as="targetPoint"/>
+        <Array as="points">
+          <mxPoint x="190" y="1497"/>
+          <mxPoint x="273" y="1427"/>
         </Array>
       </mxGeometry>
     </mxCell>
