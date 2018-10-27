@@ -119,6 +119,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Numeral](http://numeraljs.com/)
     * [RxJS](http://reactivex.io/)
     * [Ramda](https://ramdajs.com/)
+    * [ImmutableJS](https://facebook.github.io/immutable-js/)
 12. Testing
     1. Unit Testing
         * [Jest](https://facebook.github.io/jest/)
