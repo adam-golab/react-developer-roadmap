@@ -32,7 +32,7 @@ readFile(join(__dirname, '../src/react-developer-roadmap.xml'), 'utf-8', (error,
             `value="${translations[key]}"`
           )
         );
-        writeFile(join(__dirname, '../src/react-developer-roadmap-cn.xml'), translatedXML, 'utf-8', error => {
+        writeFile(join(__dirname, `../src/react-developer-roadmap-${lang}.xml`), translatedXML, 'utf-8', error => {
           if (!error) {
             console.log(`Translated to ${lang}`);
           }
