@@ -118,6 +118,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [classnames](https://github.com/JedWatson/classnames)
     * [Numeral](http://numeraljs.com/)
     * [RxJS](http://reactivex.io/)
+    * [ImmutableJS](https://facebook.github.io/immutable-js/)
     * [Ramda](https://ramdajs.com/)
 12. Testing
     1. Unit Testing

@@ -1535,7 +1535,7 @@
     <mxCell id="29283392ea474178-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=1;entryX=1;entryY=1;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=8;" parent="1" source="29283392ea474178-64" target="29283392ea474178-64" edge="1">
       <mxGeometry relative="1" as="geometry"/>
     </mxCell>
-    <mxCell id="30009fc3392c28ba-52" value="Ramda" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
+    <mxCell id="30009fc3392c28ba-52" value="ImmutableJS" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="23.5" y="1486" width="65" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="30009fc3392c28ba-53" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=0.5;entryX=0.854;entryY=1.025;entryPerimeter=0;" parent="1" source="30009fc3392c28ba-52" target="9221bb110d1119f-52" edge="1">
@@ -1887,6 +1887,19 @@
         <Array as="points">
           <mxPoint x="634" y="1480"/>
           <mxPoint x="674" y="1534"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="190" value="Ramda" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" vertex="1" parent="1">
+      <mxGeometry x="23.5" y="1507" width="65" height="15" as="geometry"/>
+    </mxCell>
+    <mxCell id="191" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=0.5;entryX=0.946;entryY=1.032;entryPerimeter=0;" edge="1" parent="1" source="190" target="9221bb110d1119f-52">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="99" y="1504" as="sourcePoint"/>
+        <mxPoint x="273" y="1372" as="targetPoint"/>
+        <Array as="points">
+          <mxPoint x="190" y="1497"/>
+          <mxPoint x="273" y="1427"/>
         </Array>
       </mxGeometry>
     </mxCell>

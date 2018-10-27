@@ -122,6 +122,7 @@
     - [classnames](https://github.com/JedWatson/classnames)
     - [Numeral](http://numeraljs.com/)
     - [RxJS](http://reactivex.io/)
+    - [ImmutableJS](https://facebook.github.io/immutable-js/)
     - [Ramda](https://ramdajs.com/)
 12. 测试
     1.  单元（Unit）测试
