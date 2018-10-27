@@ -1,8 +1,8 @@
 # План становления React-разработчиком
 
-[README на английском](README.md)
+[README in English](README.md)
 
-[README на китайском](README-CN.md)
+[README in Chinese](README-CN.md)
 
 > План, чтобы стать React-разработчиком в 2018 году:
 
