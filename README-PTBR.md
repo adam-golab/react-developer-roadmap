@@ -30,10 +30,9 @@
    3. Javascript
       - Se familiarize com a sintaxe
       - Aprenda operações basicas com o DOM
-      - Learn mechanisms typical for JS (Hoisting, Event Bubbling, Prototyping)
-      - Faça requisições AJAX
-      - Make some AJAX (XHR) calls
-      - Aprendas novas features do javascript (ECMA Script 6+)
+      - Aprenda mecanismos típicos para JS (Hoisting, Event Bubbling, Prototyping)
+      - Faça algumas requisições AJAX
+      - Aprenda as novas features do javascript (ECMA Script 6+)
       - Opcional: Conheça a biblioteca JQuery
 2. Conhecimentos de desenvolvimento em geral
    1. Aprenda GIT, crie repositórios no GitHub e compartilhe seu código com outras pessoas.
@@ -134,7 +133,7 @@
        - [Chai](http://www.chaijs.com/)
        - [AVA](https://github.com/avajs/ava)
        - [Tape](https://github.com/substack/tape)
-    2. Teste End to End
+    2. Teste end-to-end
        - [Selenium](https://www.seleniumhq.org/), [Webdriver](http://webdriver.io/)
        - [Cypress](https://cypress.io/)
        - [Puppeteer](https://pptr.dev/)
@@ -145,7 +144,7 @@
 13. Internacionalização
     - [React Intl](https://github.com/yahoo/react-intl)
     - [React i18next](https://react.i18next.com/)
-14. Server Side Rendering
+14. Renderização no servidor
     - [Next.js](https://nextjs.org/)
     - [After.js](https://github.com/jaredpalmer/after.js)
     - [Rogue](https://github.com/alidcastano/rogue.js)
