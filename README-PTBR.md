@@ -15,7 +15,7 @@
 
 ## Roadmap
 
-![Roadmap](./roadmap.png)
+![Roadmap](./roadmap-ptbr.png)
 
 ## Recursos
 
