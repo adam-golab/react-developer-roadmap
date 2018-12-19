@@ -35,7 +35,7 @@
       - Make some AJAX (XHR) calls
       - Aprendas novas features do javascript (ECMA Script 6+)
       - Opcional: Conheça a biblioteca JQuery
-2. Skills de desenvolvimento no geral
+2. Conhecimentos de desenvolvimento em geral
    1. Aprenda GIT, crie repositórios no GitHub e compartilhe seu código com outras pessoas.
    2. Aprenda os protocolos HTTP(S) e metodos de request (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    3. Não tenha medo de utilizar o google, veja [o uso avançado do Google](http://www.powersearchingwithgoogle.com/)
