@@ -140,6 +140,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 13. Internationalization
     * [React Intl](https://github.com/yahoo/react-intl)
     * [React i18next](https://react.i18next.com/)
+    * [React Lingui](https://lingui.js.org/tutorials/react.html)
 14. Server Side Rendering
     * [Next.js](https://nextjs.org/)
     * [After.js](https://github.com/jaredpalmer/after.js)
