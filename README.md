@@ -145,6 +145,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [After.js](https://github.com/jaredpalmer/after.js)
     * [Rogue](https://github.com/alidcastano/rogue.js)
 15. Static Site Generator
+    * [Next.js](https://www.nextjs.org/)
     * [Gatsby](https://www.gatsbyjs.org/)
 16. Backend Framework Integration
     * [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
