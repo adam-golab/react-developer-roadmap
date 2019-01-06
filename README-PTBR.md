@@ -6,7 +6,7 @@
 
 [README in Russian](README-RU.md)
 
-> Guia para se tornar um desenvolvedor React em 2018:
+> Guia para se tornar um desenvolvedor React em 2019:
 > Abaixo, você pode encontrar um diagrama mostrando os caminhos que podem levar, bem como as bibliotecas que você precisa aprender para se tornar um desenvolvedor React. Eu fiz esse esquema como uma dica para qualquer um que me perguntasse: "O que eu deveria aprender mais como desenvolvedor React?"
 
 ## Aviso
@@ -164,7 +164,7 @@
 
 ## Resumo
 
-Se você acha que o guia pode ser melhorado, envie um PR com quaisquer atualizações e envie suas dúvidas. Além disso, continuarei a melhorar este repositório, então, de favorite esse repositório para sempre revisitar.
+Se você acha que o guia pode ser melhorado, envie um PR com quaisquer atualizações e envie suas dúvidas. Além disso, continuarei a melhorar este repositório, então, favorite esse repositório para sempre revisitar.
 
 ## Contribuição
 
