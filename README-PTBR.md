@@ -2,6 +2,8 @@
 
 [README in English](README.md)
 
+[README in Spanish](README-ES.md)
+
 [README in Chinese](README-CN.md)
 
 [README in Russian](README-RU.md)

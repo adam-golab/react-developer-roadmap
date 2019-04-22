@@ -1,6 +1,8 @@
 # React Developer Roadmap
 [README in Chinese](README-CN.md)
 
+[README in Spanish](README-ES.md)
+
 [README in Russian](README-RU.md)
 
 [README in Portuguese (Brazil)](README-PTBR.md)
