@@ -1,14 +1,14 @@
 # План становления React-разработчиком
 
+[README in Chinese](README-CN.md)
+
 [README in English](README.md)
 
-[README in Spanish](README-ES.md)
-
-[README in Chinese](README-CN.md)
+[README in Japanese](README-JA.md)
 
 [README in Portuguese (Brazil)](README-PTBR.md)
 
-[README in Japanese](README-JA.md)
+[README in Spanish](README-ES.md)
 
 > План, чтобы стать React-разработчиком в 2019 году:
 

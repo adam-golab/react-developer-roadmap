@@ -1,11 +1,14 @@
 # React Developer Roadmap
+
 [README in Chinese](README-CN.md)
 
-[README in Spanish](README-ES.md)
+[README in English](README.md)
 
-[README in Russian](README-RU.md)
+[README in Japanese](README-JA.md)
 
 [README in Portuguese (Brazil)](README-PTBR.md)
+
+[README in Russian](README-RU.md)
 
 > Roadmap para convertirse en un desarrollador React en 2019::
 
@@ -16,7 +19,7 @@ A continuación puede encontrar un gráfico que muestra las rutas que puede toma
 
 ## Roadmap
 
-![Roadmap](./roadmap.png)
+![Roadmap](./roadmap-es.png)
 
 ## Resources
 
@@ -55,7 +58,7 @@ A continuación puede encontrar un gráfico que muestra las rutas que puede toma
     * [Rollup](https://rollupjs.org/guide/en)
     * [Parcel](https://parceljs.org/)
 5. Estilo
-    1. Preprocesadores CSS 
+    1. Preprocesadores CSS
         * [Sass/CSS](https://sass-lang.com/)
         * [PostCSS](https://postcss.org/)
         * [Less](http://lesscss.org/)
@@ -151,7 +154,7 @@ A continuación puede encontrar un gráfico que muestra las rutas que puede toma
     * [Rogue](https://github.com/alidcastano/rogue.js)
 15. Generador de sitio estático
     * [Gatsby](https://www.gatsbyjs.org/)
-16. Integración con Framework de Backend 
+16. Integración con Framework de Backend
     * [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
 17. Móvil
     * [React Native](https://facebook.github.io/react-native/)

@@ -2,13 +2,13 @@
 
 [README in English](README.md)
 
-[README in Spanish](README-ES.md)
-
-[README in Russian](README-RU.md)
+[README in Japanese](README-JA.md)
 
 [README in Portuguese (Brazil)](README-PTBR.md)
 
-[README in Japanese](README-JA.md)
+[README in Russian](README-RU.md)
+
+[README in Spanish](README-ES.md)
 
 > 该指南将助你在 2019 成为一名 React 开发者
 
