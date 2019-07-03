@@ -1,11 +1,14 @@
 # React 開発者ロードマップ
-[README in English](README.md)
 
 [README in Chinese](README-CN.md)
 
-[README in Russian](README-RU.md)
+[README in English](README.md)
 
 [README in Portuguese (Brazil)](README-PTBR.md)
+
+[README in Russian](README-RU.md)
+
+[README in Spanish](README-ES.md)
 
 > Roadmap to becoming a React developer in 2019:
 
