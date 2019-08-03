@@ -26,25 +26,25 @@ A continuación puede encontrar un gráfico que muestra las rutas que puede toma
 1. Básico
     1. HTML
         * Aprender los conceptos básicos de HTML.
-        * Hacer unas pocas páginas como ejercicio.
+        * Hacer unas pocas páginas como ejercicio.
     2. CSS
         * Aprender los conceptos básicos de CSS
         * Páginas de estilo del paso anterior.
-        * Construir una página con grid y flexbox.
+        * Construir una página con grid y flexbox.
     3. Javascript Básico
         * Familiarizarse con la sintaxis.
-        * Aprender operaciones básicas en DOM
-        * Aprender los mecanismos típicos de JS (Hoisting, Event Bubbling, creación de prototipos)
-        * Hacer algunas llamadas AJAX (XHR)
-        * Aprender nuevas características (ECMA Script 6+)
-        * Además, familiarícese con la biblioteca jQuery
+        * Aprender operaciones básicas en DOM
+        * Aprender los mecanismos típicos de JS (Hoisting, Event Bubbling, creación de prototipos)
+        * Hacer algunas llamadas AJAX (XHR)
+        * Aprender nuevas características (ECMA Script 6+)
+        * Además, familiarícese con la biblioteca jQuery
 2. Habilidades generales de desarrollo
     1. Aprenda GIT, cree algunos repositorios en GitHub, comparta su código con otras personas
     2. Conozca el protocolo HTTP (S), métodos de solicitud (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-    3. No tengas miedo de usar Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
+    3. No tengas miedo de usar Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
     4. Familiarícese con el terminal, configure su shell (bash, zsh, fish)
-    5. Lee algunos libros sobre algoritmos y estructuras de datos
-    6. Lee algunos libros sobre patrones de diseño
+    5. Lee algunos libros sobre algoritmos y estructuras de datos
+    6. Lee algunos libros sobre patrones de diseño
 3. Aprender React [Página oficial](https://reactjs.org/tutorial/tutorial.html) o completa algunos [cursos](https://egghead.io/courses/the-beginner-s-guide-to-react)
 4. Familiarízate con las herramientas que utilizarás.
     1. Gestores de paquetes
