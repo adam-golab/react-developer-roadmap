@@ -6,6 +6,8 @@
 
 [README in Japanese](README-JA.md)
 
+[README in Korean](README-KO.md)
+
 [README in Russian](README-RU.md)
 
 [README in Spanish](README-ES.md)

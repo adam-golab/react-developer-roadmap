@@ -4,6 +4,8 @@
 
 [README in Japanese](README-JA.md)
 
+[README in Korean](README-KO.md)
+
 [README in Portuguese (Brazil)](README-PTBR.md)
 
 [README in Russian](README-RU.md)
@@ -91,9 +93,9 @@
             - [Redux Better Promise](https://github.com/Lukasz-pluszczewski/redux-better-promise)
             - [Redux Saga](https://redux-saga.js.org/)
             - [Redux Observable](https://redux-observable.js.org)
-        2. 助手
-            * [Rematch](https://rematch.gitbooks.io/rematch/)
-            * [Reselect](https://github.com/reduxjs/reselect)
+        2.  助手
+            - [Rematch](https://rematch.gitbooks.io/rematch/)
+            - [Reselect](https://github.com/reduxjs/reselect)
         3.  数据持久化
             - [Redux Persist](https://github.com/rt2zz/redux-persist)
             - [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
