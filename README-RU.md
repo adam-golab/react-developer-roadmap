@@ -6,6 +6,8 @@
 
 [README in Japanese](README-JA.md)
 
+[README in Korean](README-KO.md)
+
 [README in Portuguese (Brazil)](README-PTBR.md)
 
 [README in Spanish](README-ES.md)
