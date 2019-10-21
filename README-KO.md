@@ -162,6 +162,7 @@
 17. 모바일
     - [React Native](https://facebook.github.io/react-native/)
     - [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
+    - [ionic](https://ionicframework.com/docs/react/overview)
 18. 데스크탑
     - [Proton Native](https://proton-native.js.org/)
     - [Electron](https://electronjs.org/)
