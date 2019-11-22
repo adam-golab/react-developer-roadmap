@@ -207,7 +207,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-52" value="GIT - Version Control (GitHub, Bitbucket, GitLab)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-52" value="Git - Version Control (GitHub, Bitbucket, GitLab)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="30" y="350" width="260" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-53" value="HTTP/HTTPS protocol" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
