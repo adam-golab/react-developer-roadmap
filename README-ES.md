@@ -12,6 +12,8 @@
 
 [README in Russian](README-RU.md)
 
+[README in Turkce](README-TR.md)
+
 > Roadmap para convertirse en un desarrollador React en 2019::
 
 A continuación puede encontrar un gráfico que muestra las rutas que puede tomar y las bibliotecas que le gustaría aprender para convertirse en un desarrollador React. Hice esta tabla como una sugerencia para todos los que me preguntan: "¿Qué debo aprender a continuación como desarrollador de React?"

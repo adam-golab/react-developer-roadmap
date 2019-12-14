@@ -12,6 +12,8 @@
 
 [README in Spanish](README-ES.md)
 
+[README in Turkce](README-TR.md)
+
 > 2019년 React 개발자 로드맵:
 
 아래에는 React 개발자가 되기 위한 학습 로드맵과 관련 라이브러리들이 적혀있는 차트가 있습니다. React 개발자로서 다음에 무엇을 배워야하는지 묻는 모든 사람들을 위한 팁으로 이 차트를 만들었습니다.
