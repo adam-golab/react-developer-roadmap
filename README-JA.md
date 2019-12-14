@@ -12,6 +12,8 @@
 
 [README in Spanish](README-ES.md)
 
+[README in Turkce](README-TR.md)
+
 > Roadmap to becoming a React developer in 2019:
 
 これはReact開発者になるためにあなたが学ぶべき技術やライブラリを示すチャートです。 このチャートは、「React開発者として次に何を学ぶ必要があるのか」と悩むすべての人へのヒントとして作成しました。

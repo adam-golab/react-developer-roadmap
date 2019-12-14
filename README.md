@@ -12,6 +12,8 @@
 
 [README in Spanish](README-ES.md)
 
+[README in Turkce](README-TR.md)
+
 > Roadmap to becoming a React developer in 2019:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a React developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a React developer?"
