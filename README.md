@@ -56,9 +56,10 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     2. Task Runners
         * [npm scripts](https://docs.npmjs.com/misc/scripts)
         * [gulp](https://gulpjs.com/)
-    * [Webpack](https://webpack.js.org/)
-    * [Rollup](https://rollupjs.org/guide/en)
-    * [Parcel](https://parceljs.org/)
+    3. Module Bundlers
+       * [Webpack](https://webpack.js.org/)
+       * [Rollup](https://rollupjs.org/guide/en)
+       * [Parcel](https://parceljs.org/)
 5. Styling
     1. CSS Preprocessor
         * [Sass/CSS](https://sass-lang.com/)
