@@ -12,13 +12,13 @@
 
 [README in Russian](README-RU.md)
 
-> Roadmap para convertirse en un desarrollador React en 2019::
+> Roadmap para convertirse en un desarrollador React en 2019:
 
 A continuación, podrás encontrar un gráfico que muestra los diferentes caminos que puedes elegir y las librerias que te deberian de interesarte para convertirte en un desarrollador React. Hice esta tabla como una sugerencia para todos los que me preguntan: "¿Qué debo aprender a continuación para aprender React?"
 
 ## Descargo de responsabilidad
 
-    > El propósito de este roadmap es darte una idea sobre el ecosistema. Esto podrá guiarte en caso de que estés confundido sobre qué aprender, en lugar de animarte a elegir lo que es moderno y actual y ya esta. Debes comprender mejor el por qué una herramienta sería más adecuada para algunos casos que otra y recordar que lo que está de moda no siempre es la herramienta más adecuada para el trabajo.
+   > El propósito de este roadmap es darte una idea sobre el ecosistema. Esto podrá guiarte en caso de que estés confundido sobre qué aprender, en lugar de animarte a elegir lo que es moderno y actual y ya esta. Debes comprender mejor el por qué una herramienta sería más adecuada para algunos casos que otra y recordar que lo que está de moda no siempre es la herramienta más adecuada para el trabajo.
 
 ## Roadmap
 
@@ -28,28 +28,28 @@ A continuación, podrás encontrar un gráfico que muestra los diferentes camino
 
 1. Básico
     1. HTML
-        * Aprender los conceptos básicos de HTML.
-        * Hacer unas pocas páginas como ejercicio.
+        * Aprender los conceptos básicos de HTML
+        * Hacer unas pocas páginas como ejercicio
     2. CSS
         * Aprender los conceptos básicos de CSS
-        * Páginas de estilo del paso anterior.
-        * Construir una página con Grid y Flexbox.
+        * Páginas de estilo del paso anterior
+		* Construir una página con Grid y Flexbox
     3. JavaScript Básico
-        * Familiarizarse con la sintaxis.
-        * Aprender operaciones básicas dentro del DOM
-        * Aprender los mecanismos típicos de JS (Hoisting, Event Bubbling, programación basada en Prototipos)
-        * Hacer algunas llamadas AJAX (XHR)
-        * Aprender nuevas características (ECMAScript 6+)
-        * Además, familiarizarse con la libreria jQuery
-2. Conceptos generales de programación
-   1. Aprende Git, crea algunos repositorios en GitHub, comparte tú código con otras personas
-   2. Conoce el protocolo HTTP (S), qué son los métodos de solicitud (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   3. No tengas miedo de usar Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-   4. Familiarizate con la Terminal (Bash, Consola, como quieras llamarlo), configura tú shell (Bash, ZSH, Fish)
-   5. Lee algunos libros sobre algoritmos y estructuras de datos
-   6. Lee algunos libros sobre patrones de diseño
+        * Familiarizate con la sintaxis
+        * Aprender operaciones básicas dentro del DOM
+        * Aprender los mecanismos típicos de JS (Hoisting, Event Bubbling, programación basada en Prototipos)
+        * Hacer algunas llamadas AJAX (XHR)
+        * Aprender nuevas características (ECMAScript 6+)
+        * Además, familiarizate con la libreria jQuery
+2. Conceptos Generales de Programación
+   * Aprende Git, crea algunos repositorios en GitHub, comparte tú código con otras personas
+   * Conoce el protocolo HTTP (S), qué son los métodos de solicitud (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+   * No tengas miedo de usar Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
+   * Familiarizate con la Terminal (Bash, Consola, como quieras llamarlo), configura tú shell (Bash, ZSH, Fish)
+   * Lee algunos libros sobre algoritmos y estructuras de datos
+   * Lee algunos libros sobre patrones de diseño
 3. Aprende React [Página oficial](https://reactjs.org/tutorial/tutorial.html) o completa algunos [cursos](https://egghead.io/courses/the-beginner-s-guide-to-react)
-4. Familiarizate con las herramientas que utilizarás...
+4. Familiarizate con las herramientas que utilizarás:
     1. Gestores de paquetes (Package Managers)
         * [npm](https://www.npmjs.com/)
         * [yarn](https://yarnpkg.com/lang/en/)
@@ -57,9 +57,10 @@ A continuación, podrás encontrar un gráfico que muestra los diferentes camino
     2. Task Runners
         * [npm scripts](https://docs.npmjs.com/misc/scripts)
         * [gulp](https://gulpjs.com/)
-    * [Webpack](https://webpack.js.org/)
-    * [Rollup](https://rollupjs.org/guide/en)
-    * [Parcel](https://parceljs.org/)
+    3. Empaquetadores (bundlers)
+       * [Webpack](https://webpack.js.org/)
+       * [Rollup](https://rollupjs.org/guide/en)
+       * [Parcel](https://parceljs.org/)
 5. Estilos
     1. Preprocesadores CSS (CSS Preprocessors)
         * [Sass/CSS](https://sass-lang.com/)
@@ -175,7 +176,7 @@ Si crees que se puede mejorar este roadmap, abre un PR con cualquier actualizaci
 
 ## Contribución
 
-El diagrama fue elaborado con [Draw.io](https://www.draw.io/). el archivo del proyecto puedes encontrarlo dentro del directorio `/src`. Para modificarlo, abre draw.io, click en **Open Existing Diagram** y elige la opción `xml` file with project. Una vez hecho esto, el diagrama lo podrás ver dentro del programa. actualizalo, súbelo y actualiza la imagen dentro del  README y crea un PR (recuerda que la imagen es un archivo .png)
+El diagrama fue elaborado con [Draw.io](https://www.draw.io/). el archivo del proyecto puedes encontrarlo dentro del directorio `/src`. Para modificarlo, abre draw.io, click en **Open Existing Diagram** y elige la opción `xml` file with project. Una vez hecho esto, el diagrama lo podrás ver dentro del programa. actualizalo, súbelo y actualiza la imagen dentro del  README y crea un PR (recuerda que la imagen es un archivo )
 
 * Abrir un pull request con mejoras.
 * Discutir ideas en temas (issues).
