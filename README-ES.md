@@ -14,7 +14,7 @@
 
 > Roadmap para convertirse en un desarrollador React en 2019:
 
-A continuación, podrás encontrar un gráfico que muestra los diferentes caminos que puedes elegir y las librerias que te deberian de interesarte para convertirte en un desarrollador React. Hice esta tabla como una sugerencia para todos los que me preguntan: "¿Qué debo aprender a continuación para aprender React?"
+A continuación, podrás encontrar un gráfico que muestra los diferentes caminos que puedes elegir y las librerías que te deberían de interesarte para convertirte en un desarrollador React. Hice esta tabla como una sugerencia para todos los que me preguntan: "¿Qué debo aprender a continuación para aprender React?"
 
 ## Descargo de responsabilidad
 
