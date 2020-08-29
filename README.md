@@ -17,6 +17,7 @@
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a React developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a React developer?"
 
 ## Disclaimer
+
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
 
 ## Roadmap
@@ -113,7 +114,13 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Router5](https://router5.js.org/)
     * [Redux-First Router](https://github.com/faceyspacey/redux-first-router)
     * [Reach Router](https://reach.tech/router/)
-10. API Clients
+10. Style Guide Development Tools
+
+    * [Storybook](https://github.com/storybooks/storybook)
+    * [Docz](https://www.docz.site/)
+    * [React Syleguidist](https://github.com/styleguidist/react-styleguidist)
+    * [MDX](https://github.com/mdx-js/mdx)
+11. API Clients
     1. REST
         * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
         * [SuperAgent](https://visionmedia.github.io/superagent/)
@@ -122,7 +129,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [Apollo](https://www.apollographql.com/docs/react/)
         * [Relay](https://facebook.github.io/relay/)
         * [urql](https://github.com/FormidableLabs/urql)
-11. Utility Libraries
+12. Utility Libraries
     * [Lodash](https://lodash.com/)
     * [Moment](https://momentjs.com/)
     * [classnames](https://github.com/JedWatson/classnames)
@@ -130,7 +137,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [RxJS](http://reactivex.io/)
     * [ImmutableJS](https://facebook.github.io/immutable-js/)
     * [Ramda](https://ramdajs.com/)
-12. Testing
+13. Testing
     1. Unit Testing
         * [Jest](https://facebook.github.io/jest/)
         * [Enzyme](http://airbnb.io/enzyme/)
@@ -147,25 +154,25 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [Nightwatch.js](http://nightwatchjs.org/)
     3. Integration Testing
         * [Karma](https://karma-runner.github.io/)
-13. Internationalization
+14. Internationalization
     * [React Intl](https://github.com/yahoo/react-intl)
     * [React i18next](https://react.i18next.com/)
-14. Server Side Rendering
+15. Server Side Rendering
     * [Next.js](https://nextjs.org/)
     * [After.js](https://github.com/jaredpalmer/after.js)
     * [Rogue](https://github.com/alidcastano/rogue.js)
-15. Static Site Generator
+16. Static Site Generator
     * [Gatsby](https://www.gatsbyjs.org/)
-16. Backend Framework Integration
+17. Backend Framework Integration
     * [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
-17. Mobile
+18. Mobile
     * [React Native](https://facebook.github.io/react-native/)
     * [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
-18. Desktop
+19. Desktop
     * [Proton Native](https://proton-native.js.org/)
     * [Electron](https://electronjs.org/)
     * [React Native Windows](https://github.com/Microsoft/react-native-windows)
-19. Virtual Reality
+20. Virtual Reality
     * [React 360](https://facebook.github.io/react-360/)
 
 ## Wrap Up
