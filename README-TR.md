@@ -12,7 +12,7 @@
 
 [README in Spanish](README-ES.md)
 
-[README in Turkish]
+[README in Turkish](README-TR.md)
 
 > 2019'da React geliştiricisi olmaya giden yol haritası:
 
